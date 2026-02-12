@@ -32,9 +32,9 @@ class _CurrencyConverterMaterialDesign
     );
 
     return Scaffold(
-      backgroundColor: Color.fromRGBO(190, 255, 246, 1),
+      backgroundColor: Color.fromARGB(255, 172, 255, 251),
       appBar: AppBar(
-        backgroundColor: Color.fromRGBO(190, 255, 246, 1),
+        backgroundColor: Color.fromARGB(255, 0, 60, 151),
         title: const Text(
           'Currency Converter',
           style: TextStyle(color: Colors.white),
