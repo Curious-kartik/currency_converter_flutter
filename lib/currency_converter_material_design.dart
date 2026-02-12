@@ -34,7 +34,7 @@ class _CurrencyConverterMaterialDesign
     return Scaffold(
       backgroundColor: Color.fromRGBO(190, 255, 246, 1),
       appBar: AppBar(
-        backgroundColor: Color.fromRGBO(100, 50, 20, 1),
+        backgroundColor: Color.fromRGBO(190, 255, 246, 1),
         title: const Text(
           'Currency Converter',
           style: TextStyle(color: Colors.white),
@@ -70,7 +70,7 @@ class _CurrencyConverterMaterialDesign
                     color: Color.fromARGB(255, 0, 0, 0),
                     // fontStyle: FontFeature.alternative(aalt 0),
                   ),
-                  prefixIcon: Icon(Icons.monetization_on_outlined),
+                  prefixIcon: Icon(Icons.monetization_on_sharp),
                   prefixIconColor: Color.fromARGB(255, 0, 60, 151),
                   filled: true,
                   fillColor: Colors.white,
